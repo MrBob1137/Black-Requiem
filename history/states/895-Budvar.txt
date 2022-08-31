@@ -1,0 +1,25 @@
+state={
+	id=895
+	name="STATE_895"
+
+	history={
+		owner = YUG
+		victory_points = {
+			9821 1 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = YUG
+
+	}
+
+
+	provinces={
+		9821 
+	}
+	manpower=123000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

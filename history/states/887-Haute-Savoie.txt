@@ -1,0 +1,26 @@
+state={
+	id=887
+	name="STATE_887"
+
+	history={
+		owner = FRA
+		add_core_of = OCC
+		add_core_of = FRA
+		victory_points = {
+			778 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		778 9603 11573 
+	}
+	manpower=102000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

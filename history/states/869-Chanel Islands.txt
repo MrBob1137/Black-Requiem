@@ -1,0 +1,30 @@
+state={
+	id=869
+	name="STATE_869"
+
+	history={
+		owner = FRA
+		victory_points = {
+			13256 1
+		}
+		buildings = {
+			infrastructure = 2
+			13256 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = FRA
+		add_core_of = ENG
+
+	}
+
+	provinces={
+		13256 13257 
+	}
+	manpower=4551
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}
