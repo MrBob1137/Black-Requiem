@@ -1,0 +1,384 @@
+ideas = {
+	hidden_ideas = {
+		ai_brt_war = {
+		
+			allowed = {
+			   always = no
+		   }
+
+		   allowed_civil_war = {
+			   always = yes
+		   }
+
+		   removal_cost = -1
+		   
+		   modifier = {
+			ai_focus_aggressive_factor = 0.15
+		   }
+	   }
+	}	
+    country = {
+
+	
+	    efficient_administration = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = 0.12
+			political_power_factor = 0.15
+			global_building_slots_factor = 0.10
+			production_speed_buildings_factor = 0.10
+			}
+		}
+		
+		legal_segregation = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = -0.15
+			political_power_factor = -0.20
+			recruitable_population_factor = -0.05
+
+           production_factory_max_efficiency_factor = -0.05
+			}
+		}
+		
+		militarized_academia = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			consumer_goods_factor = 0.05
+			research_speed_factor = 0.15
+			production_speed_arms_factory_factor = 0.10
+			}
+		}
+		
+		extreme_stratocracy = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = 0.10
+			military_leader_cost_factor = 0.30
+			army_leader_cost_factor = 0.30
+			}
+		}
+		
+		aristocratic_families = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			authoritarian_democracy_drift = 0.02
+			stability_factor = -0.10
+			political_power_gain = -0.35
+			consumer_goods_factor = 0.05
+			}
+		}
+		
+		army_primacy = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			army_attack_factor = 0.25
+			army_defence_factor = 0.20
+			experience_gain_army_factor = 0.15
+			army_morale_factor = 0.15
+			promote_cost_factor = 0.10
+			}
+		}
+	
+				
+		financial_conglomerates = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			consumer_goods_factor = 0.07
+			production_factory_max_efficiency_factor = -0.05
+			production_factory_efficiency_gain_factor = -0.10
+			industrial_capacity_factory = 0.15
+            industrial_capacity_dockyard = 0.15
+			}
+		}
+		
+		pax_britannica = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			war_support_factor = 0.15
+			stability_factor = 0.10
+			justify_war_goal_time = -0.35
+			}
+		}
+		
+				economic_isolation = {
+		
+		 	allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			consumer_goods_factor = 0.15
+			stability_weekly = -0.002
+			min_export = -0.80
+			}
+		}
+		
+						economic_isolation_2 = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			consumer_goods_factor = 0.10
+			stability_weekly = -0.001
+			min_export = -0.40
+			}
+		}
+	}
+
+		naval_manufacturer = { 
+		
+			designer = yes
+			
+			BRT_gen_naval = {
+				picture = BRT_gen_naval
+		
+				
+						
+				allowed = {
+					original_tag = BRT
+				  }
+				
+				
+				research_bonus = {
+					naval_equipment = 0.07
+				}
+				
+		
+							
+				traits = { raiding_fleet_naval_manufacturer }
+				
+			}
+		
+		}
+		
+		materiel_manufacturer = { 
+				
+			designer = yes
+			
+			BRT_generic_materiel = {
+				picture = BRT_generic_materiel
+		
+				
+							
+				allowed = {
+					original_tag = BRT
+				  }
+				
+				research_bonus = {
+					artillery = 0.07
+				}
+				
+			
+							
+				traits = { artillery_producer_defense_2 }
+				
+			}
+		
+		}
+		
+		aircraft_manufacturer = { 
+				
+			designer = yes
+			
+			BRT_gen_air = {
+				picture = BRT_gen_air
+		
+				
+				allowed = {
+					original_tag = BRT
+				  }
+		
+				
+				
+				research_bonus = {
+					heavy_air = 0.05
+					light_air = 0.05
+				}
+				
+			
+							
+				traits = { light_aircraft_manufacturer_2 }
+				
+			}
+		
+		}
+		
+		industrial_concern = { 
+				
+			designer = yes
+			
+			BRT_gen_industry = {
+				picture = BRT_gen_industry
+				
+							
+				allowed = {
+					original_tag = BRT
+				  }
+				
+				research_bonus = {
+					industry = 0.02
+				}
+				
+			
+							
+				traits = { industrial_manufacturer }
+				
+			}
+		
+		}
+		
+		
+		tank_manufacturer = { 
+				
+			designer = yes
+			
+			BRT_gen_tank_man = {
+				picture = BRT_gen_tank_man
+		
+				
+				allowed = {
+					original_tag = BRT
+				  }
+				research_bonus = {
+					sakuradite = 0.02
+					armor = 0.05
+				}
+				
+			
+							
+				traits = { modern_tank_manufacturer }
+				
+			}
+
+			BRT_gen_tank_man_2 = {
+				picture = BRT_gen_tank_man_2
+		
+				
+				
+		
+		     allowed = {
+			  original_tag = BRT
+		    }
+				
+
+					research_bonus = {
+						sakuradite = 0.05
+						knightmare_all_pur = 0.05
+					}
+				
+				
+			
+							
+				traits = { knightmare_producer_mass_1 }
+				
+			}
+		
+		 }
+		
+		
+		
+		
+				
+
+
+
+
+	
+	
+}	
+	

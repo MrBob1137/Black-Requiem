@@ -1,0 +1,73 @@
+###
+V 0.1.3 "The Oriental Crisis" <<<We are here atm
+-Introduction of the Japanese-Brittanian war and creation of basic scripted peace deals for both sides, this has already been accomplished.
+-Balancing of the said war, this is aimed towards making the Brittanian gameplay easy, and the Japanese one to be hard but fulfilling 
+-First years for Japan in every post-war scenario (in particular, until Clovis' death for Area 11)
+-Introduction of a post war mechanic for area 11 to manage resistance in the area,
+-Further work being done to the technology tree, 
+-Balancing of the Knightmares and Command Centres,
+-addition of the new™️ artillery tree+ some GFX polishing
+infantry tree when
+-addition of Brittanian High Command in the form of the Knights of the Round Table, 
+-give proper OOBs to Japan and Brittania, other majors are optional.
+-fix the shitty AI because paradox can suck my ass.
+-start working on new tech tree for knightmares + C&C.
+-if possible(highly unlikely) get the animated main menu to work, it would look cool to see FLEIJA exploding in tokyo.
+-make seperate mod for music to not get DMCAd.
+-start thinking of ideas for naval+armored trees, code geass can suck my ass too for not providing much help with this.
+-add new autonomous states for China+EU+Brittania ( Pixy can do this (is already doing this(I need GFX for it tho xoxo)))
+-make a public devroad and post it, it should be simplified though and not as big as here
+V 0.1.4 "The Chinese Tiger"
+ETA of this update could be soonish after 2022? maybe around january or smth idk depends if we die again
+-start working on a chinese focus trees (this includes China's fragmentation) 
+-rework chinese states, try to bring population from the 2010s into our 1936 values
+-work on a special mechanic where the player needs to manage unrest, social tensions and corruption.
+-work on other paths for China, eunuch takeover+people rise and something else maybe???
+-work on focus trees in asia for majors (India,indonesia)
+-unique focus trees for SOME minors? (Burma,Thailand.)
+-generic focus trees for all chinese federation minors 
+-possibly add new knightmare models by now if Milek has done them
+-add new stuff like new brittanian air battleships ( avalon and such others)
+-work out the sakuradite mining mechanic ( the dangerous and safe extraction,)
+-Add a special part of the focus tree for Brittania related to EU matters + IMPORTANT: continue Area 11 content until First Black Rebellion and Julius Kingsley arc
+-(Begin working on Euro-Britannia)
+-state rework for most countries, using 2010s regional state borders should be good I think.
+- more work on the AI because I can fucking bet it'll still be broken to hell and a half
+- start working on changing 1936 values of the tech trees that didn't get updated
+V 0.1.5 " The European Jungle "
+ETA? fuck if I know, I can bet that April of 2022 doesn't sound that bad
+-finally do something with australlia ( I reckon we will come to a consensus finally by this time)
+-Begin working on europe, main focus should be majors ( France, Spain, Russia, Germany and any other 'big' country )
+-Begin working on a special mechanic for EU similar to the US parliament
+-special mechanic for the african countries to join in an insurgency to work against france? imo sounds cool and adds flavour, i'm pretty sure the africans wouldn't want to be under their yoke for the 200 or so years since bagguete man came into power
+-focus trees for russia and other majors should be built around 2 paths, the loyal and the disloyal paths 
+-eu majors could get their own minor generic focus tree, like the Area's generic focus tree.
+-work on adding 'good' and 'realistic' looking population values instead of the 1936 ones. 
+-maybe start working on new doctrines ( one for land, navy and air)
+-start working on UI gfx to make the UI look more code geass ( i will learn photoshop - Pixy)
+-further work on Japan, but they shouldn't be the main aim of this update
+-Custom achievments? seem like a nice thing
+V 0.1.6 "Peace in Zilkhistan"
+-addition of Zilkhistan
+-Middle East and Africa content
+-Fixing of the New Waves of Bugs
+-New Start Date?
+
+V 0.1.7 'The Brittanian Century'
+-Start working on a special mechanic for the thought elevators
+-perhaps a special mechanic for the imperial family?
+-for sure a special mechanic for the Knights
+-creation of a new focus tree or expanding the current one
+-add more paths for brittania to.. do funny things ( ie, people getting fed up with the emperor or something, FUN stuff that should be hard-----I've planned crazy paths don't worry, like NaBol Adventures--Kruger)
+-expand the current generic area focus tree, perhaps make some unique ones for certain areas------> Argentina is a playground for Luciano while the economy is rural,Mexico is a zone for armaments tests and constant destruction, Colombia and Venezuela are resource states, controlled by one corporation,the islands are only harbours and they are controlled by the Navy,  New Anglia is a deportation colony and a hub for criminals
+
+-introduction of 2010s values of population into brittanian held states
+- state rework using 2010s regional state borders
+
+
+V 0.2 'The Great Showdawn'
+-UFN and Britannian War  aka Battle For World Domination
+-Battle For Japan
+-Lelouch's Britannia and Schneizel rebellion
+-Zero Requiem.
+-Britannian Civil War and other additional content? Don't know

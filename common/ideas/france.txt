@@ -1,0 +1,196 @@
+ideas = {
+    country = {
+	
+	    bureaucratic_nightmare = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+		
+		pervasive_corruption = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+		
+		chronic_inefficiency = {
+		
+		 	allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+		
+				
+		economic_juggernaut = {
+			
+			allowed = {
+				original_tag = CHI
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+
+		french_dominated_military = {
+			
+			allowed = {
+				original_tag = CHI
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+
+		colonial_mess = {
+			
+			allowed = {
+				original_tag = CHI
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+
+		general_discontent = {
+			
+			allowed = {
+				original_tag = CHI
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+	}	
+
+		materiel_manufacturer = { 
+				
+			designer = yes
+			
+			FRA_generic_materiel = {
+				picture = BRT_generic_materiel
+							
+				allowed = {
+					original_tag = FRA
+				  }
+											
+				traits = { artillery_producer_defense_FRA }
+				
+			}
+		
+		}
+		
+		aircraft_manufacturer = { 
+				
+			designer = yes
+			
+			FRA_gen_air = {
+				picture = BRT_gen_air
+		
+				
+				allowed = {
+					original_tag = FRA
+				  }
+							
+				traits = { CAS_FRA_manufacturer }
+				
+			}
+		
+		}
+		
+		industrial_concern = { 
+				
+			designer = yes
+			
+			FRA_gen_industry = {
+				picture = BRT_gen_industry
+							
+				allowed = {
+					original_tag = FRA
+				  }
+				
+				research_bonus = {
+					industry = 0.02
+				}
+							
+				traits = { industrial_manufacturer }
+				
+			}
+		
+		}
+		
+		tank_manufacturer = { 
+				
+			designer = yes
+
+			FRA_gen_tank_man_1 = {
+				picture = BRT_gen_tank_man_2
+
+		        allowed = {
+			        original_tag = FRA
+		    }
+			
+					research_bonus = {
+						sakuradite = 0.05
+						knightmare_all_pur = 0.05
+					}
+					
+				traits = { knightmare_producer_mass_1 }
+				
+			}
+		
+        }
+	
+}
